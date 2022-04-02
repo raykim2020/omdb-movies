@@ -1,0 +1,24 @@
+body {
+    background-color: lightgreen;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.card {
+    background-color: lightcoral;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    margin-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  img {
+    border-radius: 5px 5px 0 0;
+  }
